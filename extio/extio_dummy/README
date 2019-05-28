@@ -1,1 +1,3 @@
 Bare bones template EXTIO dll, it does periodic callback with 0 filled capture buffer.
+
+Source code included, to be compiled with VS 2019 community edition
