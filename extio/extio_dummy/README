@@ -1,0 +1,1 @@
+Bare bones template EXTIO dll, it does periodic callback with 0 filled capture buffer.
